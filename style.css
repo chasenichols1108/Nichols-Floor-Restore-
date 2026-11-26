@@ -3,6 +3,7 @@ body {
   font-family: arial, sans-serif;
   color: white;
   background-color: black;
+  line-height: 1.6;
 }
 
 img {
@@ -15,11 +16,20 @@ nav a {
   color: white;
 }
 
+h1, h2, h3 {
+  margin-top: 25px:
+margin-bottom: 25px:
+}
+
 p {
   color:white;
   font-size: 20px;
+  margin-bottom: 20px
 }
 
+li {
+  margin-bottom: 10px;
+}
 .hero-image { 
   width: 900px;
   max-width: 100%;
